@@ -1,9 +1,1 @@
-urenregistratie-app/
-│── src/                # Hier komen je PHP-bestanden in
-│   ├── index.php
-│   ├── uren_toevoegen.php
-│   ├── urenoverzicht.php
-│── diagrams/           # Voor UML of flowcharts
-│   ├── urenregistratie.drawio
-│── .gitignore
-│── README.md
+
